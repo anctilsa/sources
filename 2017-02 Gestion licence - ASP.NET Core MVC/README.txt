@@ -1,10 +1,15 @@
 **SOURCES DU PROJET NON DISPONIBLE POUR CAUSE DE CONFIDENTIALITÉ**
 
-Projet web réalisé en ASP.NET, HTML5, CSS3 et JQuery pour MicroAge qui avait pour but principal de permettre la gestion des licences des différents logiciels de la compagnie.
+Projet web réalisé en ASP.NET, HTML5, CSS3 et JQuery pour MicroAge qui avait 
+pour but principal de permettre la gestion des licences des différents logiciels 
+de la compagnie.
 
-J'étais seul comme programmeur-analyste et j'utilisais la méthode de travail SCRUM.
+J'étais seul comme programmeur-analyste et j'utilisais la méthode de travail 
+SCRUM.
 
-Le projet couvre toute la réalisation d'une application, allant de la réalisation d'un devis de conception jusqu'à la réalisation d'une première version.
+Le projet couvre toute la réalisation d'une application, allant de la 
+réalisation d'un devis de conception jusqu'à la réalisation d'une première 
+version.
 
 Mes tâches réalisées dans le projet:
 

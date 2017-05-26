@@ -2,9 +2,11 @@
 
 Projet web (forum) réalisé en PHP avec le framework MVC pour un projet personel.
 
-Nous étions une équipe de 2 programmeurs-analystes et utilisions la méthode de travail SCRUM.
+Nous étions une équipe de 2 programmeurs-analystes et utilisions la méthode de 
+travail SCRUM.
 
-Le projet couvre toute la réalisation d'un forum, allant des livrables jusqu'à la conception d'une première version fonctionnelle.
+Le projet couvre toute la réalisation d'un forum, allant des livrables jusqu'à 
+la conception d'une première version fonctionnelle.
 
 Mes tâches réalisées dans le projet:
 

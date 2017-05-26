@@ -1,4 +1,5 @@
-Projet web personel réalisé en ASP.NET Core MVC pour présenter mon curriculum vitea en ligne.
+Projet web personel réalisé en ASP.NET Core MVC pour présenter mon curriculum 
+vitea en ligne.
 
 Défis réalisées:
 	- Utilisation des variables CSS3

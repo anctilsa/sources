@@ -1,8 +1,12 @@
-Projet desktop réalisé en C# pour Excavation René St-Pierre qui avait pour but principal de permettre la gestion d'inventaire.
+Projet desktop réalisé en C# pour Excavation René St-Pierre qui avait pour but 
+principal de permettre la gestion d'inventaire.
 
-Nous étions une équipe de 4 programmeurs-analystes et utilisions la méthode de travail SCRUM.
+Nous étions une équipe de 4 programmeurs-analystes et utilisions la méthode de 
+travail SCRUM.
 
-Le projet couvre toute la réalisation d'une application, allant de la réalisation d'un devis de conception jusqu'à la création des guides utilisateur pour les clients.
+Le projet couvre toute la réalisation d'une application, allant de la 
+réalisation d'un devis de conception jusqu'à la création des guides utilisateur 
+pour les clients.
 
 Mes tâches réalisées dans le projet:
 

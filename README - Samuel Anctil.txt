@@ -1,4 +1,6 @@
-Il s'agit d'un dossier contenant divers réalisations que j'ai fait. Cela vous permettra de voir en détail mes procédures et ma façon de fonctionner en matière d'analyse et de programmation.
+Il s'agit d'un dossier contenant divers réalisations que j'ai fait. Cela vous 
+permettra de voir en détail mes procédures et ma façon de fonctionner en matière 
+d'analyse et de programmation.
 
 Liste des projets:		Langage utilisé
 ====================================================
