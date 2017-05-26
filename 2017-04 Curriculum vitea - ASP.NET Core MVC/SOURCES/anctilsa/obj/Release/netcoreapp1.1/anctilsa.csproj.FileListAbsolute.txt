@@ -1,0 +1,9 @@
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Release\netcoreapp1.1\anctilsa.deps.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Release\netcoreapp1.1\anctilsa.runtimeconfig.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Release\netcoreapp1.1\anctilsa.runtimeconfig.dev.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Release\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Release\netcoreapp1.1\anctilsa.pdb
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Release\netcoreapp1.1\anctilsa.csprojResolveAssemblyReference.cache
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Release\netcoreapp1.1\anctilsa.AssemblyInfo.cs
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Release\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Release\netcoreapp1.1\anctilsa.pdb

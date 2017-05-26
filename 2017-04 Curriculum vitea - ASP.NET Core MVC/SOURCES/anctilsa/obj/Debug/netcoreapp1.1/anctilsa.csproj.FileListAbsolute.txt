@@ -1,0 +1,18 @@
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.deps.json
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.runtimeconfig.json
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.runtimeconfig.dev.json
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.csprojResolveAssemblyReference.cache
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.AssemblyInfo.cs
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.pdb
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\Ebay\Projets\anctilsa\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.pdb
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.deps.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.runtimeconfig.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.runtimeconfig.dev.json
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\bin\Debug\netcoreapp1.1\anctilsa.pdb
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.AssemblyInfo.cs
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.dll
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.pdb
+F:\Bibliothèque\Bibliothèque\Personel\G&A Poly\anctilsa\anctilsa\anctilsa\obj\Debug\netcoreapp1.1\anctilsa.csprojResolveAssemblyReference.cache

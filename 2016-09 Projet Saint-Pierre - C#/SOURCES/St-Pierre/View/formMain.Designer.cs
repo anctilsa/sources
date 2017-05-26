@@ -1,0 +1,161 @@
+﻿namespace StPierre.View
+{
+    partial class FormMain
+    {
+        /// <summary>
+        /// Variable nécessaire au concepteur.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Nettoyage des ressources utilisées.
+        /// </summary>
+        /// <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Code généré par le Concepteur Windows Form
+
+        /// <summary>
+        /// Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+        /// le contenu de cette méthode avec l'éditeur de code.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.logout = new System.Windows.Forms.LinkLabel();
+            this.buttonForward = new System.Windows.Forms.Button();
+            this.buttonBack = new System.Windows.Forms.Button();
+            this.panelMain = new System.Windows.Forms.Panel();
+            this.panelHistory = new System.Windows.Forms.FlowLayoutPanel();
+            this.buttonRefresh = new System.Windows.Forms.Button();
+            this.panelHeader = new System.Windows.Forms.FlowLayoutPanel();
+            this.panelLogout = new System.Windows.Forms.FlowLayoutPanel();
+            this.panelHistory.SuspendLayout();
+            this.panelLogout.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // logout
+            // 
+            this.logout.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.logout.Location = new System.Drawing.Point(3, 0);
+            this.logout.Name = "logout";
+            this.logout.Size = new System.Drawing.Size(135, 36);
+            this.logout.TabIndex = 3;
+            this.logout.TabStop = true;
+            this.logout.Text = "Se déconnecter";
+            this.logout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.logout.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.logout_LinkClicked);
+            // 
+            // buttonForward
+            // 
+            this.buttonForward.Enabled = false;
+            this.buttonForward.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonForward.Location = new System.Drawing.Point(39, 3);
+            this.buttonForward.Name = "buttonForward";
+            this.buttonForward.Size = new System.Drawing.Size(30, 30);
+            this.buttonForward.TabIndex = 1;
+            this.buttonForward.Text = ">";
+            this.buttonForward.UseVisualStyleBackColor = true;
+            this.buttonForward.Click += new System.EventHandler(this.buttonForward_Click);
+            // 
+            // buttonBack
+            // 
+            this.buttonBack.Enabled = false;
+            this.buttonBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonBack.Location = new System.Drawing.Point(3, 3);
+            this.buttonBack.Name = "buttonBack";
+            this.buttonBack.Size = new System.Drawing.Size(30, 30);
+            this.buttonBack.TabIndex = 0;
+            this.buttonBack.Text = "<";
+            this.buttonBack.UseVisualStyleBackColor = true;
+            this.buttonBack.Click += new System.EventHandler(this.buttonBack_Click);
+            // 
+            // panelMain
+            // 
+            this.panelMain.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelMain.Location = new System.Drawing.Point(0, 36);
+            this.panelMain.Name = "panelMain";
+            this.panelMain.Size = new System.Drawing.Size(884, 426);
+            this.panelMain.TabIndex = 1;
+            // 
+            // panelHistory
+            // 
+            this.panelHistory.Controls.Add(this.buttonBack);
+            this.panelHistory.Controls.Add(this.buttonForward);
+            this.panelHistory.Controls.Add(this.buttonRefresh);
+            this.panelHistory.Location = new System.Drawing.Point(0, 0);
+            this.panelHistory.Name = "panelHistory";
+            this.panelHistory.Size = new System.Drawing.Size(108, 36);
+            this.panelHistory.TabIndex = 2;
+            // 
+            // buttonRefresh
+            // 
+            this.buttonRefresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonRefresh.Location = new System.Drawing.Point(75, 3);
+            this.buttonRefresh.Name = "buttonRefresh";
+            this.buttonRefresh.Size = new System.Drawing.Size(30, 30);
+            this.buttonRefresh.TabIndex = 2;
+            this.buttonRefresh.Text = "↻";
+            this.buttonRefresh.UseVisualStyleBackColor = true;
+            this.buttonRefresh.Click += new System.EventHandler(this.buttonRefresh_Click);
+            // 
+            // panelHeader
+            // 
+            this.panelHeader.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panelHeader.Location = new System.Drawing.Point(108, 0);
+            this.panelHeader.Name = "panelHeader";
+            this.panelHeader.Size = new System.Drawing.Size(635, 36);
+            this.panelHeader.TabIndex = 3;
+            // 
+            // panelLogout
+            // 
+            this.panelLogout.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelLogout.Controls.Add(this.logout);
+            this.panelLogout.Location = new System.Drawing.Point(743, 0);
+            this.panelLogout.Name = "panelLogout";
+            this.panelLogout.Size = new System.Drawing.Size(141, 36);
+            this.panelLogout.TabIndex = 4;
+            // 
+            // FormMain
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(884, 462);
+            this.Controls.Add(this.panelLogout);
+            this.Controls.Add(this.panelHeader);
+            this.Controls.Add(this.panelHistory);
+            this.Controls.Add(this.panelMain);
+            this.MinimumSize = new System.Drawing.Size(825, 500);
+            this.Name = "FormMain";
+            this.Text = "St-Pierre";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormMain_FormClosing);
+            this.Load += new System.EventHandler(this.FormMain_Load);
+            this.panelHistory.ResumeLayout(false);
+            this.panelLogout.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Button buttonForward;
+        private System.Windows.Forms.Button buttonBack;
+        private System.Windows.Forms.Panel panelMain;
+        private System.Windows.Forms.LinkLabel logout;
+        private System.Windows.Forms.FlowLayoutPanel panelHistory;
+        private System.Windows.Forms.FlowLayoutPanel panelHeader;
+        private System.Windows.Forms.Button buttonRefresh;
+        private System.Windows.Forms.FlowLayoutPanel panelLogout;
+    }
+}
+

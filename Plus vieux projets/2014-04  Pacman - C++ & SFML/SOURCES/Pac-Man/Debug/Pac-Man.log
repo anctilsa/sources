@@ -1,0 +1,25 @@
+﻿  pilule.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\comestible.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  pastille.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\comestible.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  pacman.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\pacman.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fruit.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\comestible.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fantome4.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\fantome4.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fantome3.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\fantome3.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fantome2.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\fantome2.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fantome1.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\fantome1.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  fantome.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\fantome.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  comestible.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\comestible.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  bonhomme.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\bonhomme.h(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Pac-Man.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-04  pacman - c++ & sfml\sources\pac-man\pac-man.cpp(17): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...

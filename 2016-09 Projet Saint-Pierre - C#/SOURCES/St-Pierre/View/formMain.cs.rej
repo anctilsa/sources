@@ -1,0 +1,9 @@
+diff a/St-Pierre/View/formMain.cs b/St-Pierre/View/formMain.cs	(rejected hunks)
+@@ -28,7 +28,6 @@
+         /// <summary>
+         /// FormMain: Creates the main form and instanciate the breadcrumbs
+         /// </summary>
+-        public FormMain()
+         public FormMain(User user)
+         {
+             InitializeComponent();

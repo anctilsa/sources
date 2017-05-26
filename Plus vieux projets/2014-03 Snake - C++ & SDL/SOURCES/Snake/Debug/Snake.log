@@ -1,0 +1,2 @@
+﻿  snake.cpp
+c:\users\samuel anctil\desktop\projets réalisés\plus vieux projets\2014-03 snake - c++ & sdl\sources\snake\snake.cpp(17): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL\SDL.h' : No such file or directory

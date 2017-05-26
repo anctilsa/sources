@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - Samuel Anctil</title>
+        <style type="text/css">
+            @@import url(/css/style.css);
+            /*@@import url(/lib/bootstrap/dist/css/bootstrap.css);*/
+        </style>
+    </head>
+    <body>
+        <nav id="main-menu">
+            <ul>
+                <li><a class="border" onclick="jump('first')">Curriculum vitea</a></li>
+                <li><a class="border" href="https://github.com/anctilsa/anctilsa/commits/master" target="_blank">Sources</a></li>
+                @*<li>
+                    <a href="https://www.facebook.com/anctilsa" target="_blank">
+                        <img src="~/images/facebook-logo.gif" alt="Mon profile Facebook">
+                    </a>
+                </li>*@
+                <li>
+                    <a href="https://www.linkedin.com/in/samuel-anctil-2965ab141/" target="_blank">
+                        <img src="~/images/linkedin-logo.gif" alt="Mon profile LinkedIn">
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <header>
+            <div class="color-picker">
+
+            </div>
+            <div id="header" class="container">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="hexagon" id="hexagon-border">
+                            <div class="hexagon-in-1">
+                                <div class="hexagon-in-2">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="hexagon" id="hexagon-image">
+                            <div class="hexagon-in-1">
+                                <div class="hexagon-in-2">
+                                    <div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <section id="title" class="col-8">
+                        <div>
+                            <h1 class="no-margin">Samuel Anctil</h1>
+                            <h2 class="no-margin">Analyste-programmeur *disponible*</h2>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </header>
+        <div id="content">
+            <main>
+                @RenderBody()
+            </main>
+        </div>
+        <footer>
+            <section>
+                <h3>&copy; 2017 - Samuel Anctil</h3>
+            </section>
+        </footer>
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        @*<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>*@
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </body>
+</html>
