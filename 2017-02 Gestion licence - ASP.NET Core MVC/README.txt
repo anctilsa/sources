@@ -21,7 +21,8 @@ Mes tâches réalisées dans le projet:
 
 - Base de données
 	- Fichier SQL générant la base de données dans SQL Server
-	- Procédure stocker en SQL pour gérer la 
+	- Procédure stocker en SQL pour gérer la sauvegarde des anciennes
+	  licences
 
 - Programmation
 	- Database manager (back-end)
