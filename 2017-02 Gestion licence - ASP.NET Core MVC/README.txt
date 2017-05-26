@@ -1,4 +1,4 @@
-**SOURCES DU PROJET NON DISPONIBLE POUR CAUSE DE CONFIDENTIALITÉ**
+**SOURCES ET DOCUMENTATIONS DU PROJET NON DISPONIBLE POUR CAUSE DE CONFIDENTIALITÉ**
 
 Projet web réalisé en ASP.NET, HTML5, CSS3 et JQuery pour MicroAge qui avait 
 pour but principal de permettre la gestion des licences des différents logiciels 
