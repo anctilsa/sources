@@ -5,8 +5,7 @@ Nous étions une équipe de 4 programmeurs-analystes et utilisions la méthode de
 travail SCRUM.
 
 Le projet couvre toute la réalisation d'une application, allant de la 
-réalisation d'un devis de conception jusqu'à la création des guides utilisateur 
-pour les clients.
+réalisation d'un devis de conception jusqu'à la création des guides d'utilisateur pour les clients.
 
 Mes tâches réalisées dans le projet:
 
