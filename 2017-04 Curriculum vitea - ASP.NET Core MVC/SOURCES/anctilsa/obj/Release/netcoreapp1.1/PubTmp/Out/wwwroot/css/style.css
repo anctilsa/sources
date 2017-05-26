@@ -1,125 +1,4 @@
-﻿
-/***********************************************
-    CSS variable
-***********************************************/
-* {
-    /* Red */
-    --x-pale-red: #FFA9A9;
-    --pale-red: #FF5454;
-    --red: #FF0000;
-    --dark-red: #BF0000;
-    --x-dark-red: #7F0000;
-    --xx-dark-red: #3F0000;
-    /* Orange */
-    --x-pale-orange: #FFE9A9;
-    --pale-orange: #FFD454;
-    --orange: #FFBF00;
-    --dark-orange: #BF8F00;
-    --x-dark-orange: #7F5F00;
-    --xx-dark-orange: #3F2F00;
-    /* Yellow */
-    --x-pale-yellow: #FAFFA9;
-    --pale-yellow: #F6FF54;
-    --yellow: #F2FF00;
-    --dark-yellow: #B5BF00;
-    --x-dark-yellow: #797F00;
-    --xx-dark-yellow: #3C3F00;
-    /* Green */
-    --x-pale-green: #A9FFBF;
-    --pale-green: #54FF7F;
-    --green: #00FF3F;
-    --dark-green: #00BF2F;
-    --x-dark-green: #007F1F;
-    --xx-dark-green: #003F0F;
-    /* Cian */
-    --x-pale-cian: #A9FFFF;
-    --pale-cian: #54FFFF;
-    --cian: #00FFFF;
-    --dark-cian: #00BFBF;
-    --x-dark-cian: #007F7F;
-    --xx-dark-cian: #003F3F;
-    /* Blue */
-    --x-pale-blue: #A9BFFF;
-    --pale-blue: #547FFF;
-    --blue: #003FFF;
-    --dark-blue: #002FBF;
-    --x-dark-blue: #001F7F;
-    --xx-dark-blue: #000F3F;
-    /* Mauve */
-    --x-pale-mauve: #D4A9FF;
-    --pale-mauve: #A954FF;
-    --mauve: #7F00FF;
-    --dark-mauve: #5F00BF;
-    --x-dark-mauve: #3F007F;
-    --xx-dark-mauve: #1F003F;
-    /* Pink */
-    --x-pale-pink: #FFA9E9;
-    --pale-pink: #FF54D4;
-    --pink: #FF00BF;
-    --dark-pink: #BF008F;
-    --x-dark-pink: #7F005F;
-    --xx-dark-pink: #3F002F;
-    /* Gray */
-    --white: #FFF;
-    --pale-gray: #CCC;
-    --gray: #999;
-    --dark-gray: #656565;
-    --x-dark-gray: #323232;
-    --black: #000;
-    /* Space size */
-    --space-xx-small: 1px;
-    --space-x-small: 2.5px;
-    --space-small: 5px;
-    --space-normal: 10px;
-    --space-large: 15px;
-    --space-x-large: 20px;
-    --space-xx-large: 25px;
-    /* Columns size */
-    --col-0: 0;
-    --col-1: 8.33333333%;
-    --col-2: 16.66666667%;
-    --col-3: 25%;
-    --col-4: 33.33333333%;
-    --col-5: 41.66666667%;
-    --col-6: 50%;
-    --col-7: 58.33333333%;
-    --col-8: 66.66666667%;
-    --col-9: 75%;
-    --col-10: 83.33333333%;
-    --col-11: 91.66666667%;
-    --col-12: 100%;
-}
-
-p,
-h1,
-h2,
-h3,
-h4,
-th,
-td,
-li,
-legend,
-label,
-a {
-    /* Font size */
-    --font-xx-small: 0.75em;
-    --font-x-small: 0.8333333333em;
-    --font-small: 0.9166666667em;
-    --font-normal: 1em;
-    --font-large: 1.5em;
-    --font-x-large: 2em;
-    --font-xx-large: 3em;
-    --font-xxx-large: 5em;
-}
-
-header,
-nav *,
-footer {
-    --header-height: 90vh;
-    --nav-height: 10vh;
-}
-
-/***********************************************
+﻿/***********************************************
     General
 ***********************************************/
 
@@ -133,7 +12,7 @@ body {
 
 header {
     position: relative;
-    height: var(--header-height);
+    height: 90vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -141,22 +20,22 @@ header {
 }
 
 header #title {
-    height: var(--header-height);
+    height: 90vh;
 }
 
 main > *,
 nav#main-menu,
 footer {
-    padding-right: var(--space-normal);
-    padding-left: var(--space-normal);
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 #header,
 main > *,
 nav#main-menu ul,
 footer section {
-    margin-left: var(--col-2);
-    margin-right: var(--col-2);
+    margin-left: 16.66666667%;
+    margin-right: 16.66666667%;
 }
 
 main {
@@ -169,11 +48,11 @@ nav, footer {
 }
 
 nav {
-    min-height: var(--nav-height);
+    min-height: 10vh;
 }
 
 footer {
-    color: var(--white);
+    color: #FFF;
 }
 
 img {
@@ -225,8 +104,8 @@ header #title > div {
 
 header section h1,
 header section h2 {
-    -webkit-text-fill-color: var(--white);
-    -webkit-text-stroke-color: var(--x-dark-gray);
+    -webkit-text-fill-color: #FFF;
+    -webkit-text-stroke-color: #323232;
     -webkit-text-stroke-width: 2px;
 }
 
@@ -260,7 +139,7 @@ header section h2 {
     -ms-transform: rotate(-60deg);
     -o-transform: rotate(-60deg);
     transform: rotate(-60deg);
-    background-color: var(--x-dark-gray);
+    background-color: #323232;
 }
 
 
@@ -272,35 +151,35 @@ header section h2 {
 }
 
 p {
-    line-height: var(--font-large);
+    line-height: 2em;
 }
 
 .x-small {
-    font-size: var(--font-x-small);
+    font-size: 0.8333333333em;
 }
 
 h1 {
-    font-size: var(--font-xxx-large);
+    font-size: 5em;
 }
 
 h2 {
-    font-size: var(--font-x-large);
+    font-size: 2em;
 }
 
 h3 {
-    font-size: var(--font-large);
+    font-size: 1.5em;
     margin-top: 12px;
     margin-bottom: 12px;
 }
 
 h4 {
-    font-size: var(--font-normal);
+    font-size: 1em;
     margin-top: 12px;
     margin-bottom: 12px;
 }
 
 table td {
-    padding: var(--space-x-small);
+    padding: 2.5px;
 }
 
 .no-margin {
@@ -313,46 +192,46 @@ a {
 }
 
 a:hover {
-    color: var(--blue);
+    color: #003FFF;
 }
 
 /*
     Main
 */
 main {
-    color: var(--x-dark-gray);
+    color: #323232;
 }
 
 /*
     Nav
 */
 nav#main-menu {
-    height: var(--nav-height);
+    height: 10vh;
 }
 
 nav#main-menu ul {
     margin-top: 0;
     margin-bottom: 0;
-    padding: var(--space-normal) 0 var(--space-normal) 0;
-    min-height:  var(--font-large);
+    padding: 10px 0 10px 0;
+    min-height: 1.5em;
 }
 
 nav#main-menu li {
     display: inline-block;
     list-style-type: none;
-    padding-right: var(--space-normal);
+    padding-right: 10px;
     padding-left: 0;
 }
 
 nav#main-menu a {
     font-weight: bold;
-    font-size: var(--font-large);
-    line-height: var(--nav-height);
+    font-size: 1.5em;
+    line-height: 10vh;
 }
 
 nav#main-menu a.border {
-    padding: var(--space-small);
-    border-radius: var(--space-small);
+    padding: 2.5px;
+    border-radius: 2.5px;
     border: 2px solid #26A7EB;
 }
 
@@ -363,7 +242,7 @@ nav#main-menu a > img {
 }
 
 nav#main-menu a:hover {
-    border-color: var(--blue);
+    border-color: #003FFF;
     cursor: pointer;
 }
 
@@ -379,9 +258,9 @@ footer > section > h3 {
 }
 
 footer > section > p {
-    font-size: var(--font-x-small);
+    font-size: 0.8333333333em;
     font-weight: bold;
-    padding-bottom: var(--space-normal);
+    padding-bottom: 10px;
     margin-top: 0;
     margin-bottom: 0px;
 }
@@ -401,61 +280,61 @@ footer > section > p {
 
 .row > * {
     float: left;
-    padding-left: var(--space-normal);
-    padding-right: var(--space-normal);
+    padding-left: 10px;
+    padding-right: 10px;
     box-sizing: border-box;
 }
 
 .col-0 {
-    width: var(--col-0);
+    width: 0;
 }
 
 .col-1 {
-    width: var(--col-1);
+    width: 8.33333333%;
 }
 
 .col-2 {
-    width: var(--col-2);
+    width: 16.66666667%;
 }
 
 .col-3 {
-    width: var(--col-3);
+    width: 25%;
 }
 
 .col-4 {
-    width: var(--col-4);
+    width: 33.33333333%;
 }
 
 .col-5 {
-    width: var(--col-5);
+    width: 41.66666667%;
 }
 
 .col-6 {
-    width: var(--col-6);
+    width: 50%;
 }
 
 .col-7 {
-    width: var(--col-7);
+    width: 58.33333333%;
 }
 
 .col-8 {
-    width: var(--col-8);
+    width: 66.66666667%;
 }
 
 .col-9 {
-    width: var(--col-9);
+    width: 75%;
 }
 
 .col-10 {
-    width: var(--col-10);
+    width: 83.33333333%;
 }
 
 .col-11 {
-    width: var(--col-11);
+    width: 91.66666667%;
 }
 
 .col-12 {
-    width: var(--col-12);
+    width: 100%;
 }
 
 /***********************************************
@@ -466,28 +345,28 @@ footer > section > p {
     Score table
 */
 table.score {
-margin-bottom: var(--space-xx-large);
+margin-bottom: 25px;
 }
 
 table.score th {
     text-align: left;
-    font-size: var(--font-normal);
+    font-size: 1em;
 }
 
 table.score td:first-child,
 table.score td:last-child {
-    font-size: var(--font-x-small);
+    font-size: 0.8333333333em;
 }
 
 table.score td:first-child {
     text-align: center;
     font-weight: bold;
     width: 15px;
-    border-radius: var(--space-x-small);
+    border-radius: 2.5px;
 }
 
 table td.score-1 {
-    background-color: var(--x-pale-green);
+    background-color: #A9FFBF;
 }
 
 table td.score-1:after {
@@ -495,7 +374,7 @@ table td.score-1:after {
 }
 
 table td.score-2 {
-    background-color: var(--pale-green);
+    background-color: #54FF7F;
 }
 
 table td.score-2:after {
@@ -503,7 +382,7 @@ table td.score-2:after {
 }
 
 table td.score-3 {
-    background-color: var(--green);
+    background-color: #00FF3F;
 }
 
 table td.score-3:after {
@@ -511,7 +390,7 @@ table td.score-3:after {
 }
 
 table td.score-4 {
-    background-color: var(--dark-green);
+    background-color: #00BF2F;
 }
 
 table td.score-4:after {
@@ -519,7 +398,7 @@ table td.score-4:after {
 }
 
 table td.score-5 {
-    background-color: var(--x-dark-green);
+    background-color: #007F1F;
 }
 
 table td.score-5:after {
@@ -531,21 +410,21 @@ table td.score-5:after {
 */
 #first {
     margin-top: 10vh;
-    border-radius: var(--space-normal) var(--space-normal) 0 0;
-    background-color: var(--white);
+    border-radius: 10px 10px 0 0;
+    background-color: #FFF;
 }
 
 #third {
-    border-radius: 0 0 var(--space-normal) var(--space-normal);
-    background-color: var(--white);
+    border-radius: 0 0 10px 10px;
+    background-color: #FFF;
 }
 
 #second {
-    background-color: var(--white);
+    background-color: #FFF;
 }
 
 .info-cv > article {
-    padding-left: var(--space-xx-large);
+    padding-left: 25px;
 }
 
 .info-cv > article li {
@@ -562,20 +441,20 @@ table td.score-5:after {
 */
 #legend {
     float: right;
-    padding: var(--space-normal);
+    padding: 10px;
     border: 2px solid #26A7EB;
-    border-radius: var(--space-normal);
+    border-radius: 10px;
 }
 
 #legend td:first-child {
-    color: var(--x-dark-gray);
+    color: #323232;
 }
 
 #about {
-    color: var(--white);
-    margin-top: var(--space-xx-large);
-    padding: var(--space-normal);
-    border-radius: var(--space-normal);
+    color: #FFF;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px;
     background-color: #26A7EB;
 }
 
@@ -606,8 +485,8 @@ table td.score-5:after {
     main > *,
     nav#main-menu ul,
     footer section {
-        margin-left: var(--col-1);
-        margin-right: var(--col-1); 
+        margin-left: 8.33333333%;
+        margin-right: 8.33333333%;
     }
 }
 
@@ -638,7 +517,7 @@ table td.score-5:after {
     }
 
     header #title h1 {
-        font-size: var(--font-xx-large);
+        font-size: 3em;
     }
 
     #hexagon-border {
@@ -651,7 +530,7 @@ table td.score-5:after {
 
     .row > * {
         float: none;
-        width: var(--col-12);
+        width: 100%;
     }
 
     #about img {
@@ -659,7 +538,7 @@ table td.score-5:after {
     }
 
     .score {
-        width: var(--col-4);
+        width: 33.33333333%;
         float: left;
     }
 }
@@ -667,7 +546,7 @@ table td.score-5:after {
 
 @media screen and (max-width: 540px) {
     .score {
-        width: var(--col-12);
+        width: 100%;
         float: none;
     }
 
