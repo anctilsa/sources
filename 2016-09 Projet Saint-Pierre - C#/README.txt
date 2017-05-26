@@ -11,21 +11,21 @@ pour les clients.
 Mes tâches réalisées dans le projet:
 
 - L'analyse
-	- Diagramme d'architecture détaillié (100%)
-	- Diagramme de contexte (100%)
-	- Maquettes (70%)
+	- Diagramme d'architecture détaillié
+	- Diagramme de contexte
+	- Maquettes
 
 - Programmation
-	- Page de connexion (90%)
-	- Page de gestion d'utilisateur (100%)
-	- Système de filtres pour l'inventaire (100%)
+	- Page de connexion
+	- Page de gestion d'utilisateur
+	- Système de filtre pour l'inventaire
 
 - Documentation
 	- Rédaction des 6 livrables (25%)
-	- Rédaction des 3 guides (50%)
+	- Rédaction des 3 guides (25%)
 
 - "Paperasse"
-	- S'assurer que les livrables son complet
-	- S'assurer que les livrables son remis à temps
+	- S'assurer que les livrables sont complet
+	- S'assurer que les livrables sont remis à temps
 	- Remise des livrables
 	- Prise de tous les rendez-vous avec le client
