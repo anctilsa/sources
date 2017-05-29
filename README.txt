@@ -4,8 +4,8 @@ d'analyse et de programmation.
 
 Liste des projets:		Langage utilisé
 ====================================================
-2017-02 Gestion Licence		ASP.NET Core MVC
 2017-04 Curriculum Vitea	ASP.NET Core MVC
+2017-02 Gestion Licence		ASP.NET Core MVC
 
 2016-10 Forum UO Absolution	PHP architecture MVC
 2016-09 Projet Saint-Pierre	C#
