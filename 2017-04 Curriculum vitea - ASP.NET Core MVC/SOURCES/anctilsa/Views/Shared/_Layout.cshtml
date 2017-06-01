@@ -13,15 +13,20 @@
         <nav id="main-menu">
             <ul>
                 <li><a class="border" onclick="jump('first')">Curriculum vitea</a></li>
-                <li><a class="border" href="https://github.com/anctilsa/anctilsa/commits/master" target="_blank">Sources</a></li>
+                <li><a class="border" href="https://github.com/anctilsa/sources" target="_blank" title="Voir les sources de projets réalisés">Sources</a></li>
                 @*<li>
                     <a href="https://www.facebook.com/anctilsa" target="_blank">
                         <img src="~/images/facebook-logo.gif" alt="Mon profile Facebook">
                     </a>
                 </li>*@
                 <li>
-                    <a href="https://www.linkedin.com/in/samuel-anctil-2965ab141/" target="_blank">
+                    <a href="https://www.linkedin.com/in/samuel-anctil-2965ab141/" target="_blank" title="Accèder à mon profil LinkedIn">
                         <img src="~/images/linkedin-logo.gif" alt="Mon profile LinkedIn">
+                    </a>
+                </li>
+                <li>
+                    <a href="~/cv/curriculum-vitae.pdf" target="_blank"  title="Télécharger la version PDF">
+                        <img src="~/images/pdf.gif" alt="Mon profile LinkedIn">
                     </a>
                 </li>
             </ul>
@@ -57,7 +62,7 @@
             </div>
         </header>
         <div id="content">
-            <main>
+            <main >
                 @RenderBody()
             </main>
         </div>

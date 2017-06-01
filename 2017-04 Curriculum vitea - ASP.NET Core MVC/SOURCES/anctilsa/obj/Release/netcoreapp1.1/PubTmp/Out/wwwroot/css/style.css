@@ -41,6 +41,7 @@ footer section {
 main {
     background-image: url(../images/gray-bg.jpg);
     overflow: hidden;
+    display: block;
 }
 
 nav, footer {
@@ -151,7 +152,7 @@ header section h2 {
 }
 
 p {
-    line-height: 2em;
+    line-height: 1.75em;
 }
 
 .x-small {
@@ -167,7 +168,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-top: 12px;
     margin-bottom: 12px;
 }
@@ -212,7 +213,7 @@ nav#main-menu {
 nav#main-menu ul {
     margin-top: 0;
     margin-bottom: 0;
-    padding: 10px 0 10px 0;
+    padding: 0;
     min-height: 1.5em;
 }
 
@@ -236,7 +237,7 @@ nav#main-menu a.border {
 }
 
 nav#main-menu a > img {
-    height: 41.48px;
+    height: 36px;
     vertical-align: middle;
     margin-bottom: 4px;
 }
@@ -244,6 +245,10 @@ nav#main-menu a > img {
 nav#main-menu a:hover {
     border-color: #003FFF;
     cursor: pointer;
+}
+
+nav#main-menu img:hover {
+    opacity: 0.8;
 }
 
 /*
@@ -254,7 +259,6 @@ footer {
 }
 
 footer > section > h3 {
-    line-height: 10vh;
 }
 
 footer > section > p {
@@ -409,9 +413,9 @@ table td.score-5:after {
     Sections
 */
 #first {
-    margin-top: 10vh;
+    margin-top: 5vh;
     border-radius: 10px 10px 0 0;
-    background-color: #FFF;
+    background-color: #26A7EB;
 }
 
 #third {
@@ -452,10 +456,6 @@ table td.score-5:after {
 
 #about {
     color: #FFF;
-    margin-top: 25px;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #26A7EB;
 }
 
 #about img {
@@ -505,9 +505,6 @@ table td.score-5:after {
         border-radius: 0 !important;
     }
 
-    nav#main-menu li a {
-    }
-
     nav#main-menu li a > img {
         margin-bottom: 0;
     }
@@ -545,6 +542,11 @@ table td.score-5:after {
 
 
 @media screen and (max-width: 540px) {
+    nav#main-menu {
+        height: inherit;
+        display: inline-block;
+    }
+
     .score {
         width: 100%;
         float: none;
