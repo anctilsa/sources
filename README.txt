@@ -1,4 +1,8 @@
-Il s'agit d'un dossier contenant divers réalisations que j'ai fait. Cela vous 
+Cliquez sur les répertoires ci-dessus pour accèder aux sources et aux documentations de chaque projet.
+
+J'ai mis à votre disposition plusieurs documents d'analyse disponible en image PNG, vous trouverez également beaucoup de documention en format texte. 
+
+Il s'agit de divers réalisations que j'ai fait. Cela vous 
 permettra de voir en détail mes procédures et ma façon de fonctionner en matière 
 d'analyse et de programmation.
 
