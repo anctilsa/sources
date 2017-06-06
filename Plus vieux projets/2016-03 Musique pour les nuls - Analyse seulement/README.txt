@@ -6,7 +6,7 @@ Le projet couvre toute la réalisation des documents d'analyse pour un projet.
 
 Mes tâches réalisées dans le projet:
 
-- L'analyse
+- L'analyse (backlog du produit et du sprint)
 	- Liste des processus d'affaire (50%)
 	- Diagramme de contexte (80%)
 	- Maquettes (50%)

@@ -20,11 +20,18 @@ Mes tâches réalisées dans le projet:
 	- Système de filtre pour l'inventaire
 
 - Documentation
-	- Rédaction des 6 livrables (25%)
+	- Rédaction du backlog du produit (25%)
+	- Rédaction de la proposition de systèeme pour le client (25%)
+	- Rédaction du backlog du sprint (25%)
+	- Rédaction des 3 livrables (itérations SCRUM) (25%)
 	- Rédaction des 3 guides (25%)
 
-- "Paperasse"
+- Autres tâches
 	- S'assurer que les livrables sont complet
 	- S'assurer que les livrables sont remis à temps
 	- Remise des livrables
 	- Prise de tous les rendez-vous avec le client
+
+Copier coller cette adresse pour voir les maquettes, le diagramme d'architecture détaillié et le diagramme de contexte sur Lucidchart:
+
+https://www.lucidchart.com/invitations/accept/3e06fe7e-2f76-42bd-ab68-ae757bee34c4

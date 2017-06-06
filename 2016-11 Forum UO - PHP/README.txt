@@ -27,4 +27,9 @@ Mes tâches réalisées dans le projet:
 	- Manager d'un commentaire
 
 - Documentation
-	- Rédaction des 2 livrables (50%)
+	- Rédaction du backlog du produit (50%)
+	- Rédaction du backlog du sprint (50%)
+
+Copier coller cette adresse pour voir les maquettes, le diagramme d'architecture détaillié, le diagramme de contexte et le schéma relationnel sur Lucidchart:
+
+https://www.lucidchart.com/documents/edit/db20da9b-7539-4ade-94d5-2c0000de1af7?shared=true&

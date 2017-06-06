@@ -36,8 +36,8 @@ Mes tâches réalisées dans le projet:
 	- Page de restauration de licence
 
 - Documentation
-	- Rédaction d'un devis de conception
-	- Sprint rétrospective 1
-	- Documentation des framework créers
+	- Rédaction d'un devis de conception (proposition de système au client)
+	- Rédaction du sprint rétrospective 1
+	- Documentation des frameworks créés
 		- Popup
 		- DatabaseManager
